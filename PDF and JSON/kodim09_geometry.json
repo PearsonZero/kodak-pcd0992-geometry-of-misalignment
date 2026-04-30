@@ -1,0 +1,22 @@
+{
+  "image_id": "kodim09",
+  "title": "sailboats under spinnakers",
+  "dimensionality_tier": "Weakly one-dimensional",
+  "condition_number": 92.7,
+  "variance_explained_pct": [
+    90.85,
+    8.17,
+    0.98
+  ],
+  "angular_misalignment": {
+    "theta_1_PC1_Y": 24.75,
+    "theta_2_PC2_Cb": 32.68,
+    "theta_3_PC3_Cr": 29.93,
+    "total_degrees": 87.35
+  },
+  "energy_weighted_angle": 25.4449,
+  "decorrelation_efficiency_pct": 48.5,
+  "predicted_efficiency_3axis": 48.05,
+  "residual_pp": 0.45,
+  "diagnostic_tier": "Critical"
+}

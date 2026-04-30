@@ -1,0 +1,22 @@
+{
+  "image_id": "kodim22",
+  "title": "barn and pond (KINSA Photo Contest)",
+  "dimensionality_tier": "Weakly one-dimensional",
+  "condition_number": 28.63,
+  "variance_explained_pct": [
+    89.76,
+    7.11,
+    3.13
+  ],
+  "angular_misalignment": {
+    "theta_1_PC1_Y": 32.93,
+    "theta_2_PC2_Cb": 39.9,
+    "theta_3_PC3_Cr": 37.97,
+    "total_degrees": 110.79
+  },
+  "energy_weighted_angle": 33.5789,
+  "decorrelation_efficiency_pct": 82.3,
+  "predicted_efficiency_3axis": 67.12,
+  "residual_pp": 15.18,
+  "diagnostic_tier": "Aligned"
+}

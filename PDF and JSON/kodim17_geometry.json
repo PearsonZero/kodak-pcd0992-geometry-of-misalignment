@@ -1,0 +1,22 @@
+{
+  "image_id": "kodim17",
+  "title": "monument",
+  "dimensionality_tier": "Near-degenerate",
+  "condition_number": 1388.78,
+  "variance_explained_pct": [
+    97.78,
+    2.15,
+    0.07
+  ],
+  "angular_misalignment": {
+    "theta_1_PC1_Y": 28.67,
+    "theta_2_PC2_Cb": 36.3,
+    "theta_3_PC3_Cr": 34.45,
+    "total_degrees": 99.42
+  },
+  "energy_weighted_angle": 28.8383,
+  "decorrelation_efficiency_pct": 55.2,
+  "predicted_efficiency_3axis": 64.86,
+  "residual_pp": -9.66,
+  "diagnostic_tier": "Moderate"
+}

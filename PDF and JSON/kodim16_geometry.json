@@ -1,0 +1,22 @@
+{
+  "image_id": "kodim16",
+  "title": "tropical key",
+  "dimensionality_tier": "Strongly one-dimensional",
+  "condition_number": 824.2,
+  "variance_explained_pct": [
+    96.4,
+    3.48,
+    0.12
+  ],
+  "angular_misalignment": {
+    "theta_1_PC1_Y": 27.29,
+    "theta_2_PC2_Cb": 31.85,
+    "theta_3_PC3_Cr": 29.76,
+    "total_degrees": 88.9
+  },
+  "energy_weighted_angle": 27.4488,
+  "decorrelation_efficiency_pct": 54.6,
+  "predicted_efficiency_3axis": 61.41,
+  "residual_pp": -6.81,
+  "diagnostic_tier": "Moderate"
+}

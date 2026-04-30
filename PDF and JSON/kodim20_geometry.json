@@ -1,0 +1,22 @@
+{
+  "image_id": "kodim20",
+  "title": "P51 Mustang",
+  "dimensionality_tier": "Near-degenerate",
+  "condition_number": 1739.16,
+  "variance_explained_pct": [
+    98.42,
+    1.52,
+    0.06
+  ],
+  "angular_misalignment": {
+    "theta_1_PC1_Y": 30.87,
+    "theta_2_PC2_Cb": 24.71,
+    "theta_3_PC3_Cr": 22.77,
+    "total_degrees": 78.35
+  },
+  "energy_weighted_angle": 30.7677,
+  "decorrelation_efficiency_pct": 63.5,
+  "predicted_efficiency_3axis": 70.17,
+  "residual_pp": -6.67,
+  "diagnostic_tier": "Aligned"
+}

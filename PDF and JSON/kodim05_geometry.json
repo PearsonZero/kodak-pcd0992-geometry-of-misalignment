@@ -1,0 +1,22 @@
+{
+  "image_id": "kodim05",
+  "title": "motocross bikes",
+  "dimensionality_tier": "Weakly one-dimensional",
+  "condition_number": 36.68,
+  "variance_explained_pct": [
+    91.91,
+    5.59,
+    2.51
+  ],
+  "angular_misalignment": {
+    "theta_1_PC1_Y": 26.21,
+    "theta_2_PC2_Cb": 47.05,
+    "theta_3_PC3_Cr": 45.11,
+    "total_degrees": 118.37
+  },
+  "energy_weighted_angle": 27.8478,
+  "decorrelation_efficiency_pct": 69.2,
+  "predicted_efficiency_3axis": 56.98,
+  "residual_pp": 12.22,
+  "diagnostic_tier": "Aligned"
+}

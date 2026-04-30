@@ -1,0 +1,22 @@
+{
+  "image_id": "kodim11",
+  "title": "sailboat at pier",
+  "dimensionality_tier": "Weakly one-dimensional",
+  "condition_number": 107.6,
+  "variance_explained_pct": [
+    91.56,
+    7.59,
+    0.85
+  ],
+  "angular_misalignment": {
+    "theta_1_PC1_Y": 28.54,
+    "theta_2_PC2_Cb": 66.28,
+    "theta_3_PC3_Cr": 64.45,
+    "total_degrees": 159.27
+  },
+  "energy_weighted_angle": 31.7059,
+  "decorrelation_efficiency_pct": 61.6,
+  "predicted_efficiency_3axis": 54.51,
+  "residual_pp": 7.09,
+  "diagnostic_tier": "Moderate"
+}

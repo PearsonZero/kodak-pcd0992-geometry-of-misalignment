@@ -1,0 +1,22 @@
+{
+  "image_id": "kodim10",
+  "title": "off-shore sailboat race",
+  "dimensionality_tier": "Strongly one-dimensional",
+  "condition_number": 229.3,
+  "variance_explained_pct": [
+    96.12,
+    3.46,
+    0.42
+  ],
+  "angular_misalignment": {
+    "theta_1_PC1_Y": 25.72,
+    "theta_2_PC2_Cb": 50.02,
+    "theta_3_PC3_Cr": 47.9,
+    "total_degrees": 123.64
+  },
+  "energy_weighted_angle": 26.6561,
+  "decorrelation_efficiency_pct": 56.6,
+  "predicted_efficiency_3axis": 52.77,
+  "residual_pp": 3.83,
+  "diagnostic_tier": "Moderate"
+}

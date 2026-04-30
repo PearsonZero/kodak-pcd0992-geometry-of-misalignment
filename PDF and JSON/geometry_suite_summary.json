@@ -1,0 +1,39 @@
+{
+  "suite": "Kodak Lossless True Color Image Suite (PCD0992)",
+  "n_images": 24,
+  "angular_range_statistics": {
+    "PC1_Y": {
+      "min": 21.89,
+      "max": 32.93,
+      "mean": 28.07,
+      "std": 2.7
+    },
+    "PC2_Cb": {
+      "min": 23.89,
+      "max": 79.75,
+      "mean": 46.79,
+      "std": 15.65
+    },
+    "PC3_Cr": {
+      "min": 21.98,
+      "max": 76.95,
+      "mean": 44.6,
+      "std": 15.73
+    }
+  },
+  "regression": {
+    "R": 0.7592,
+    "R_squared": 0.5764,
+    "coefficients": {
+      "theta1": 1.092704,
+      "theta2": -15.701337,
+      "theta3": 15.348954
+    },
+    "intercept": 74.7911
+  },
+  "energy_weighted_R_squared": 0.0074,
+  "diagnostic_tiers": {
+    "t1": 53.0,
+    "t2": 61.9
+  }
+}

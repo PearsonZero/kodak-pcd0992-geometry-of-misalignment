@@ -1,0 +1,22 @@
+{
+  "image_id": "kodim15",
+  "title": "girl with painted face",
+  "dimensionality_tier": "Strongly one-dimensional",
+  "condition_number": 212.23,
+  "variance_explained_pct": [
+    94.46,
+    5.09,
+    0.45
+  ],
+  "angular_misalignment": {
+    "theta_1_PC1_Y": 27.37,
+    "theta_2_PC2_Cb": 71.61,
+    "theta_3_PC3_Cr": 69.91,
+    "total_degrees": 168.88
+  },
+  "energy_weighted_angle": 29.8119,
+  "decorrelation_efficiency_pct": 57.7,
+  "predicted_efficiency_3axis": 53.3,
+  "residual_pp": 4.4,
+  "diagnostic_tier": "Moderate"
+}

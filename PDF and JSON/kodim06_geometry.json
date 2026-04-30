@@ -1,0 +1,22 @@
+{
+  "image_id": "kodim06",
+  "title": "sailboat at anchor",
+  "dimensionality_tier": "Near-degenerate",
+  "condition_number": 542.58,
+  "variance_explained_pct": [
+    98.42,
+    1.4,
+    0.18
+  ],
+  "angular_misalignment": {
+    "theta_1_PC1_Y": 26.67,
+    "theta_2_PC2_Cb": 61.29,
+    "theta_3_PC3_Cr": 58.88,
+    "total_degrees": 146.84
+  },
+  "energy_weighted_angle": 27.2113,
+  "decorrelation_efficiency_pct": 31.5,
+  "predicted_efficiency_3axis": 45.44,
+  "residual_pp": -13.94,
+  "diagnostic_tier": "Critical"
+}

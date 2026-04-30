@@ -1,0 +1,22 @@
+{
+  "image_id": "kodim21",
+  "title": "Portland Head Light",
+  "dimensionality_tier": "Weakly one-dimensional",
+  "condition_number": 298.45,
+  "variance_explained_pct": [
+    88.7,
+    11.01,
+    0.3
+  ],
+  "angular_misalignment": {
+    "theta_1_PC1_Y": 30.19,
+    "theta_2_PC2_Cb": 40.0,
+    "theta_3_PC3_Cr": 38.13,
+    "total_degrees": 108.32
+  },
+  "energy_weighted_angle": 31.2927,
+  "decorrelation_efficiency_pct": 53.2,
+  "predicted_efficiency_3axis": 65.02,
+  "residual_pp": -11.82,
+  "diagnostic_tier": "Moderate"
+}

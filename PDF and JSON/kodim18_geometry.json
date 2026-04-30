@@ -1,0 +1,22 @@
+{
+  "image_id": "kodim18",
+  "title": "model in black dress",
+  "dimensionality_tier": "Weakly one-dimensional",
+  "condition_number": 38.44,
+  "variance_explained_pct": [
+    90.63,
+    7.01,
+    2.36
+  ],
+  "angular_misalignment": {
+    "theta_1_PC1_Y": 27.34,
+    "theta_2_PC2_Cb": 40.32,
+    "theta_3_PC3_Cr": 36.81,
+    "total_degrees": 104.48
+  },
+  "energy_weighted_angle": 28.4756,
+  "decorrelation_efficiency_pct": 32.1,
+  "predicted_efficiency_3axis": 36.68,
+  "residual_pp": -4.58,
+  "diagnostic_tier": "Critical"
+}

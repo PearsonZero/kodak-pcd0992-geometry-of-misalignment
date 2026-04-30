@@ -1,0 +1,22 @@
+{
+  "image_id": "kodim02",
+  "title": "red door",
+  "dimensionality_tier": "Three-dimensional",
+  "condition_number": 165.41,
+  "variance_explained_pct": [
+    73.37,
+    26.19,
+    0.44
+  ],
+  "angular_misalignment": {
+    "theta_1_PC1_Y": 29.2,
+    "theta_2_PC2_Cb": 66.19,
+    "theta_3_PC3_Cr": 64.0,
+    "total_degrees": 159.38
+  },
+  "energy_weighted_angle": 39.04,
+  "decorrelation_efficiency_pct": 37.3,
+  "predicted_efficiency_3axis": 49.77,
+  "residual_pp": -12.47,
+  "diagnostic_tier": "Critical"
+}

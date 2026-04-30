@@ -1,0 +1,22 @@
+{
+  "image_id": "kodim08",
+  "title": "market place",
+  "dimensionality_tier": "Strongly one-dimensional",
+  "condition_number": 261.0,
+  "variance_explained_pct": [
+    96.96,
+    2.67,
+    0.37
+  ],
+  "angular_misalignment": {
+    "theta_1_PC1_Y": 26.98,
+    "theta_2_PC2_Cb": 47.11,
+    "theta_3_PC3_Cr": 45.12,
+    "total_degrees": 119.22
+  },
+  "energy_weighted_angle": 27.5888,
+  "decorrelation_efficiency_pct": 59.2,
+  "predicted_efficiency_3axis": 57.2,
+  "residual_pp": 2.0,
+  "diagnostic_tier": "Moderate"
+}

@@ -1,0 +1,22 @@
+{
+  "image_id": "kodim19",
+  "title": "lighthouse in Maine",
+  "dimensionality_tier": "Strongly one-dimensional",
+  "condition_number": 258.32,
+  "variance_explained_pct": [
+    93.36,
+    6.27,
+    0.36
+  ],
+  "angular_misalignment": {
+    "theta_1_PC1_Y": 28.98,
+    "theta_2_PC2_Cb": 33.54,
+    "theta_3_PC3_Cr": 31.48,
+    "total_degrees": 94.01
+  },
+  "energy_weighted_angle": 29.2778,
+  "decorrelation_efficiency_pct": 46.3,
+  "predicted_efficiency_3axis": 63.03,
+  "residual_pp": -16.73,
+  "diagnostic_tier": "Critical"
+}

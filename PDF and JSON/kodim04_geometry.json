@@ -1,0 +1,22 @@
+{
+  "image_id": "kodim04",
+  "title": "portrait of a girl in red",
+  "dimensionality_tier": "Weakly one-dimensional",
+  "condition_number": 62.22,
+  "variance_explained_pct": [
+    86.87,
+    11.73,
+    1.4
+  ],
+  "angular_misalignment": {
+    "theta_1_PC1_Y": 32.37,
+    "theta_2_PC2_Cb": 79.75,
+    "theta_3_PC3_Cr": 76.95,
+    "total_degrees": 189.07
+  },
+  "energy_weighted_angle": 38.5539,
+  "decorrelation_efficiency_pct": 33.1,
+  "predicted_efficiency_3axis": 39.1,
+  "residual_pp": -6.0,
+  "diagnostic_tier": "Critical"
+}

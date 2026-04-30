@@ -1,0 +1,22 @@
+{
+  "image_id": "kodim23",
+  "title": "two macaws",
+  "dimensionality_tier": "Three-dimensional",
+  "condition_number": 7.55,
+  "variance_explained_pct": [
+    70.3,
+    20.38,
+    9.31
+  ],
+  "angular_misalignment": {
+    "theta_1_PC1_Y": 29.61,
+    "theta_2_PC2_Cb": 46.27,
+    "theta_3_PC3_Cr": 44.3,
+    "total_degrees": 120.18
+  },
+  "energy_weighted_angle": 34.3755,
+  "decorrelation_efficiency_pct": 64.9,
+  "predicted_efficiency_3axis": 60.64,
+  "residual_pp": 4.26,
+  "diagnostic_tier": "Aligned"
+}
