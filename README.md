@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20148259.svg)](https://doi.org/10.5281/zenodo.20148259)
 # The Geometry of Misalignment
 
 **Angular Distance Between Image-Specific KLT Axes and BT.601 Fixed Axes Across the Kodak Lossless True Color Image Suite**
